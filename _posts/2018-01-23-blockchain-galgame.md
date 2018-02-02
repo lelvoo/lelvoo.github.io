@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      区块链黄油的基础构想
-subtitle:   ——我花了3分钟，成功开发了一款galgame！
+subtitle:   ——我花了3分钟，开发了一款galgame！
 date:       2018-01-23
 author:     Pockies
 header-img: img/post-bg-009.jpg
