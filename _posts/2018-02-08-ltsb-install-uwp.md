@@ -26,11 +26,11 @@ LTSB（长期服务版）是目前唯一可以长期稳定使用的Bug10版本�
 
 打开镜像，进入 `sources` 文件夹，找到 `install.wim` 文件，用压缩软件打开。
 
-进入 `1` 文件夹，在 `Program Files` 文件夹内找到 `WindowsApps` ，将整个 `WindowsApps`文件夹解压出来。
+进入 `1` 文件夹，在 `Program Files` 文件夹内找到 `WindowsApps` ，将整个 `WindowsApps` 文件夹解压出来。
 
 ![](https://wx3.sinaimg.cn/large/741f9461gy1fo8gc9fpvsj20yh0mp45g.jpg)
 
-进入解压好的 `WindowsApps`文件夹，保留其中用以下名称开头的文件夹，其余删除。
+进入解压好的 `WindowsApps` 文件夹，保留其中用以下名称开头的文件夹，其余删除。
 
 ```
 Microsoft.Advertising.Xaml......
@@ -53,7 +53,7 @@ Microsoft.WindowsStore......
 
 ![](https://wx2.sinaimg.cn/large/741f9461gy1fo8gcmj57aj20pp0jhdi9.jpg)
 
-双击`WindowsApps`文件夹，弹出权限提示，点继续获得权限，进入`WindowsApps`文件夹，把前期准备提取出来的所有文件放进去。
+双击 `WindowsApps` 文件夹，弹出权限提示，点“继续”获得权限，进入 `WindowsApps` 文件夹，把前期准备提取出来的所有文件放进去。
 
 （如果获取权限失败则回到高级安全设置，手动将你登入的账户权限修改为完全控制。）
 
