@@ -81,7 +81,7 @@ Microsoft.WindowsStore......
 
 # 安装商店
 
-以管理员运行PowerShell，输入以下命令，回车。
+以管理员身份运行PowerShell，输入以下命令，回车。
 
 ```
 Add-AppXPackage -Register 'C:\Program Files\WindowsApps\*\AppXManifest.xml' -DisableDevelopmentMode
