@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      BALDR BRINGER的蓝色窗帘
-subtitle:   ——剧透注意   
+subtitle:   剧透注意   
 date:       2017-11-05
 author:     Pockies
 header-img: img/post-bg-003.jpg

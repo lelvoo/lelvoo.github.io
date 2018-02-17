@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Hello World
-subtitle:   ——世界，你好
+subtitle:   世界，你好
 date:       2014-05-19
 author:     Pockies
 header-img: img/post-bg-001.jpg

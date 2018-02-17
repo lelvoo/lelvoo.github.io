@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      不完美的句号
-subtitle:   ——BALDR BRINGER 
+subtitle:   BALDR BRINGER 
 date:       2017-11-04
 author:     Pockies
 header-img: img/post-bg-002.jpg

@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Lucid Dream
-subtitle:   ——A Cola Story
+subtitle:   A Cola Story
 date:       2018-01-07
 author:     Pockies
 header-img: img/post-bg-007.jpg

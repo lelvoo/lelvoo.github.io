@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Windows10 LTSB版安装应用商店与UWP
-subtitle:   ——折腾笔记
+subtitle:   折腾笔记
 date:       2018-02-08
 author:     Pockies
 header-img: img/post-bg-011.jpg
