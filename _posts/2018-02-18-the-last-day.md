@@ -8,6 +8,7 @@ header-img: img/post-bg-012.jpg
 catalog: true
 tags:
     - Galgame
+    - Steam
     - 动画
 ---
 
