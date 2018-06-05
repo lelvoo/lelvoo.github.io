@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      蛇尾续貂的极致
+title:      狗屁续蛇尾的极致
 subtitle:   BALDR BRINGER EXTEND CODE 
 date:       2018-06-05
 author:     Pockies
