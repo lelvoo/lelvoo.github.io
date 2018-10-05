@@ -97,7 +97,8 @@ tags:
 - 接着是本次1809的“重磅功能”之一：剪贴板历史
 
   `Win+V` 体验极差，由于内容卡片太大而窗口太小，导致显示的项目极少，还不能拉大窗口或全屏，使用下来极其低效。
-  并且才一天不到已经出现了 `Win+V` 无法唤出的抽风问题。
+
+  并且一天不到已经出现了 `Win+V` 无法唤出的抽风问题。
 
   最后安心用回chrome扩展，瞬间爽到：[Clipboard History 2](https://chrome.google.com/webstore/detail/clipboard-history-2/ajiejmhbejpdgkkigpddefnjmgcbkenk)
 
