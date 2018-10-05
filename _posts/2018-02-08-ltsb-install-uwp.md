@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Windows10 LTSB版安装应用商店与UWP
+title:      Windows10 LTSB/LTSC版安装应用商店与UWP
 subtitle:   折腾笔记
 date:       2018-02-08
 author:     Pockies
@@ -8,6 +8,18 @@ header-img: img/post-bg-011.jpg
 catalog: true
 tags:
     - Windows
+---
+
+
+
+# Update 2018.10.05
+
+经测试，LTSC 2019安装商店的方法不变，请放心食用。
+
+![](https://wx1.sinaimg.cn/large/741f9461gy1fvxj926x15j20y80owdxn.jpg)
+
+以下正文。
+
 ---
 
 LTSB（长期服务版）是目前唯一可以长期稳定使用的Bug10版本。
