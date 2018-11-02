@@ -93,5 +93,8 @@ friends: [
     {
         title: "plum's blog",
         href: "https://plumz.me/"
+    },{
+        title: "suzumiyashirone's blog",
+        href: "https://suzumiyashirone.github.io/"
     }
 ]
