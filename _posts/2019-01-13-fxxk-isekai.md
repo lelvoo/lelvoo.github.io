@@ -465,7 +465,7 @@ YouTube： [【冻鳗x相声】关于让郭德纲于谦配音2018穿越动画这
 希望未来某天：
 
 - 我能制作出属于自己的galgame；
-- 我能拥有一架无人机并空摄废墟；
+- 我能拥有一架无人机并[空摄废墟](https://www.youtube.com/channel/UCSCsHXyuejvZa3MuBfpM8GA)；
 
 无论如何。
 
