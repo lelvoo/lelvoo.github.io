@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      离别总会到来
-subtitle:   セヴンデイズ あなたとすごす七日間
+subtitle:   《セヴンデイズ あなたとすごす七日間》
 date:       2017-12-03
 author:     Pockies
 header-img: img/post-bg-004.jpg

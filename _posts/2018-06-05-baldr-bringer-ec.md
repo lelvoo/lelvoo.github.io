@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      狗屁续蛇尾的极致
-subtitle:   BALDR BRINGER EXTEND CODE 
+subtitle:   《BALDR BRINGER EXTEND CODE》
 date:       2018-06-05
 author:     Pockies
 header-img: img/post-bg-018.jpg

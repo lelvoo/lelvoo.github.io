@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      为大人准备的童话书
-subtitle:   マクナ=グラムラとフェアリー・ベル
+subtitle:   《マクナ=グラムラとフェアリー・ベル》
 date:       2018-02-25
 author:     Pockies
 header-img: img/post-bg-013.jpg
