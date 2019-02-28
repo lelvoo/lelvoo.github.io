@@ -111,8 +111,6 @@ tags:
 
 “让dlc女主长出大雕干男主老婆玩ntr，结果惨遭男主老婆一口咬断丁丁，痛的直接落下心理阴影还被男主小妾们改造发情，最后让男主反复中出干出啊黑颜。”
 
-![](https://wx3.sinaimg.cn/large/741f9461gy1frznx79b9qj21ff0sxkjl.jpg)
-
 ![](https://wx1.sinaimg.cn/large/741f9461gy1frznrywdk3j20pv0k0q8c.jpg)
 
 雷得外焦里嫩......
