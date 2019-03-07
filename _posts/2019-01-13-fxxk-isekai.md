@@ -13,6 +13,8 @@ tags:
 
 如果您还没观看视频，那么欢迎移步捧场~
 
+Bilibili： [【冻鳗x相声】关于让郭德纲于谦配音2018穿越动画这件事](https://www.bilibili.com/video/av40228642/)
+
 YouTube： [【冻鳗x相声】关于让郭德纲于谦配音2018穿越动画这件事](https://www.youtube.com/watch?v=uM6MygRqzy8)
 
 ---
