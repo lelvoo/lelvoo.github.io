@@ -104,27 +104,24 @@ header-img: "img/post-bg-home.jpg"
     _render();
 </script>
 
- <!-- disqus 评论框 start  -->
+<!-- Gitalk 评论 start  -->
 
-<div class="comment">
-    <div id="disqus_thread" class="disqus-thread">
-    </div>
-</div>
-<!-- disqus 评论框 end -->
+<!-- Link Gitalk 的支持文件  -->
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script> 
+<div id="gitalk-container"></div>     <script type="text/javascript">
+    var gitalk = new Gitalk({
 
-<!-- disqus 公共JS代码 start (一个网页只需插入一次) -->
-<script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES * * */
-    var disqus_shortname = "pockies";
-    var disqus_identifier = "/about";
-    var disqus_url = "http://pockies.github.io/about/";
-
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>
-<!-- disqus 公共JS代码 end -->
-
+    // gitalk的主要参数
+		clientID: `a0a163a5048b3508e3ec`,
+		clientSecret: `48de0e9e67bbfe9f1c14ccba43f82f2a0b9c02fd`,
+		repo: `pockies.github.io`,
+		owner: 'Pockies',
+		admin: ['Pockies'],
+		id: 'about.html',
+    
+    });
+    gitalk.render('gitalk-container');
+</script> 
+<!-- Gitalk end -->
 
