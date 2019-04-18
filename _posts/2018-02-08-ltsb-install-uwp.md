@@ -14,7 +14,7 @@ tags:
 
 # Update 2018.10.05
 
-经测试，LTSC 2019安装商店的方法不变，请放心食用。
+经测试，LTSC 2019安装商店的方法不变（商店与UWP环境对应普通Win10 1809版），请放心食用。
 
 ![](https://wx1.sinaimg.cn/large/741f9461gy1fvxj926x15j20y80owdxn.jpg)
 
