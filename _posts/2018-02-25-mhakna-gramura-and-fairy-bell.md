@@ -37,7 +37,7 @@ tags:
 
 为了重建屋子不停砍树的老人，哪怕砍好的材料已经多到长蘑菇了依然没去建房；
 
-![](https://c1.staticflickr.com/5/4656/40473998371_4b589e4849_o.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/40473998371_4b589e4849_o.jpg)
 
 无论是在现实的孤儿院还是在 `ベル` 创造的理想乡，无论是登场的各个配角还是男女主间的对白，脚本透过女主 `マクナ` 的视点，用孩子一样天真明亮的文风来描写这个光怪陆离的世界。
 
@@ -57,7 +57,7 @@ tags:
 
 游戏开头女主与 `ベル` 定下的契约彻底成了定时炸弹。
 
-![](https://c1.staticflickr.com/5/4669/25603026477_1e9df7afd0_o.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/25603026477_1e9df7afd0_o.jpg)
 
 # 幸福
 
@@ -73,7 +73,7 @@ tags:
 
 随后 `マクナ` 再次来到作为乐园出入口的紫色森林探险，谁知这一举动彻底激怒了 `ベル` 。
 
-![](https://c1.staticflickr.com/5/4713/25603030987_01a87a55e9_o.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/25603030987_01a87a55e9_o.jpg)
 
 美梦瞬间化作梦魇，在 `マクナ` 回忆起可怕过去之后，脚本终于抛出主题：
 
@@ -85,7 +85,7 @@ tags:
 
 `ベル` 和 `マクナ` 最后的对白像极了《楚门的世界》，`マクナ` 的选择自然和楚门一样，竭尽全力的拒绝了 `ベル` 的溺爱，回到了那个充满未知的现实世界。
 
-![](https://c1.staticflickr.com/5/4628/40430554872_fc7345d77d_o.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/40430554872_fc7345d77d_o.jpg)
 
 如果游戏到此为止，那这终究只是一部包装精美氛围至上的二流鸡汤。
 
@@ -101,7 +101,7 @@ tags:
 
 而是极其单纯的，通过 `マクナ` 的视点向玩家展现两种活法，然后借 `マクナ` 之口写出 **脚本自己** 的选择。
 
-![](https://c1.staticflickr.com/5/4630/40432007992_af369f7cab_o.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/40432007992_af369f7cab_o.jpg)
 
 这就让结局充满了醍醐味——
 
@@ -119,7 +119,7 @@ tags:
 
 其中最重要的莫过于 `ベル` 的词条。
 
-![](https://c1.staticflickr.com/5/4672/40430560662_9c06e856b3_o.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/40430560662_9c06e856b3_o.jpg)
 
 `ベル` 头上的枯萎花冠在词条里终于得到说明：
 
@@ -131,7 +131,7 @@ tags:
 
 ——当花瓣散尽时，也意味着 `ベル` 生命的终结。
 
-![](https://c1.staticflickr.com/5/4704/25604486457_d4f74f7c3b_o.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/25604486457_d4f74f7c3b_o.jpg)
 
 还记得游戏里 `ベル` 无处不在飘落的枯萎花瓣吗？
 
@@ -141,7 +141,7 @@ tags:
 
 ——哪怕被自己一直守护的孩子们“抛弃”。
 
-![](https://c1.staticflickr.com/5/4619/39763525614_5cb5031095_o.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/39763525614_5cb5031095_o.jpg)
 
 如果可以，真希望 `マクナ` 在最后实现了回归现实的愿望并走出乐园大门的时候，能像楚门那样回过头来，深鞠一躬。
 
