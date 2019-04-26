@@ -12,7 +12,7 @@ tags:
 
 本打算LTSB 2016用到微软倒闭，无奈巨硬不给这个机会：
 
-![](https://wx2.sinaimg.cn/large/741f9461gy1fvxjaqj6woj20rh0jq0uo.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fvxjaqj6woj20rh0jq0uo.jpg)
 
 越来越多实用的小工具彻底转到了巨硬商店，却加上了版本限制。
 
@@ -28,7 +28,7 @@ tags:
 
   这就......
 
-![](https://wx2.sinaimg.cn/mw1024/741f9461gy1fvxjj8vnlrj20f20f4wo2.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fvxjj8vnlrj20f20f4wo2.jpg)
 
 - 小娜和其他垃圾内置广告功能依然烦人。
 
@@ -36,7 +36,7 @@ tags:
 
   好在回滚安全成功，没遇到失败“bug”。
 
-![](https://wx4.sinaimg.cn/large/741f9461gy1fvvc2adeg0j20k50e10t6.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fvvc2adeg0j20k50e10t6.jpg)
 
 # 升级安装至LTSC 2019
 
@@ -44,7 +44,7 @@ tags:
 
 个人非常推荐直接保留文件+应用升级安装（升级前请先卸载onedrive）。
 
-![](https://wx3.sinaimg.cn/mw1024/741f9461gy1fvw9xmx1kxj20kc0gawfl.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fvw9xmx1kxj20kc0gawfl.jpg)
 
 - 和普通1809不同，升级安装至LTSC 2019居然真能 **完整保留个人文件和应用** ，且没什么bug。 
 
@@ -54,7 +54,7 @@ tags:
 
 - **LTSB 2016的数字激活无法用于LTSC 2019，请重新激活。**
 
-![](https://wx2.sinaimg.cn/large/741f9461gy1fvwaoc1ut5j20js08t0u0.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fvwaoc1ut5j20js08t0u0.jpg)
 
 - bug只发现了一个：onedrive的资源管理器快捷方式点击会无反应，反复卸载安装无解。
 
@@ -76,7 +76,7 @@ tags:
 
   **逼死强迫症。**
 
-![](https://wx1.sinaimg.cn/mw1024/741f9461gy1fvxjapaxbfj20dk08pdg3.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fvxjapaxbfj20dk08pdg3.jpg)
 
 - 不自带“截图和草图”（1809里用来替代旧版“截图”的uwp应用），通知和操作里又给你塞了个入口。
 
@@ -84,7 +84,7 @@ tags:
 
   **强迫症又死了。**
 
-![](https://wx2.sinaimg.cn/mw1024/741f9461gy1fvxjaobds1j20gr0aygmj.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fvxjaobds1j20gr0aygmj.jpg)
 
 - 不自带“人脉”，但任务栏又又又给你留了个入口。
 
@@ -92,7 +92,7 @@ tags:
 
   **强迫症想刨了阿三祖坟。**
 
-![](https://wx1.sinaimg.cn/mw1024/741f9461gy1fvxjj3b6bgj20ah0iy784.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fvxjj3b6bgj20ah0iy784.jpg)
 
 - 接着是本次1809的“重磅功能”之一：剪贴板历史
 
@@ -102,17 +102,17 @@ tags:
 
   最后安心用回chrome扩展，瞬间爽到：[Clipboard History 2](https://chrome.google.com/webstore/detail/clipboard-history-2/ajiejmhbejpdgkkigpddefnjmgcbkenk)
 
-![](https://wx2.sinaimg.cn/mw1024/741f9461gy1fvxjj37ph3j209e0dgjsr.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fvxjj37ph3j209e0dgjsr.jpg)
 
 - 然后是本次1809的“重磅功能”之二：剪贴板同步
 
-  ![](https://wx1.sinaimg.cn/mw1024/741f9461gy1fvxjalfl2oj20ef0gytad.jpg)
+  ![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fvxjalfl2oj20ef0gytad.jpg)
 
   是的，直到最后我都没能体验到这功能，因为...
 
   第一次点击上图红框的弹窗如图：
 
-  ![](https://wx2.sinaimg.cn/mw1024/741f9461gy1fvxjj3a6l2j20ic0bmdh3.jpg)
+  ![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fvxjj3a6l2j20ic0bmdh3.jpg)
 
   play上发现有个同名输入法但开发者并不是巨硬。
 
@@ -120,11 +120,11 @@ tags:
 
   期间由于半天没等到短信，我又点了一次，弹窗如图：
 
-  ![](https://wx3.sinaimg.cn/large/741f9461gy1fvxjahvqgmj20j00ihjsq.jpg)
+  ![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fvxjahvqgmj20j00ihjsq.jpg)
 
   突然就变样了，同样填入手机收到的却是一条coolapk的网页短链，让你安装巨硬的[launcher](https://www.coolapk.com/apk/com.microsoft.launcher)。
 
-  ![](https://wx1.sinaimg.cn/mw1024/741f9461gy1fvxjodtmpmj20i20hb16n.jpg)
+  ![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fvxjodtmpmj20i20hb16n.jpg)
 
   输入法变launcher，安装的提供者从play变成coolapk，不确定是不是bug，或者跟代理/位置区域设置有关。
 
@@ -142,7 +142,7 @@ tags:
 
   索性整个关了一了百了，关闭选项藏在设置的“隐私”里。
 
-![](https://wx1.sinaimg.cn/large/741f9461gy1fvxjabljvrj20po0mkdm9.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fvxjabljvrj20po0mkdm9.jpg)
 
 # 尾巴
 
@@ -150,7 +150,7 @@ tags:
 
 个人最喜欢的是夜间模式，开始菜单能拖拽建立文件夹，以及chrome能右键快速调用一个Emoji输入板。
 
-![](https://wx1.sinaimg.cn/mw1024/741f9461gy1fvxjj37ttmj20ab0af75d.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fvxjj37ttmj20ab0af75d.jpg)
 
 我也终于能正常安装商店内那些有版本要求的小软件了。
 

@@ -41,7 +41,7 @@ $$ fun^10xint^40=Ir2 $$
 ***图片***
 
 [島風ちゃんが本体です](http://zh.pixiv.com/works/43588035)
-![島風ちゃんが本体です](http://ww4.sinaimg.cn/large/741f9461gw1egj6n459n0j20fy0frtab.jpg)
+![島風ちゃんが本体です](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gw1egj6n459n0j20fy0frtab.jpg)
 
 ------
 

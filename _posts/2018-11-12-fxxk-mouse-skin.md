@@ -37,7 +37,7 @@ tags:
 
 继续侵泡，大半天后会变成下图模样。
 
-![](https://wx1.sinaimg.cn/large/741f9461ly1fx566svdm2j210e0o6qv5.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461ly1fx566svdm2j210e0o6qv5.jpg)
 
 原本黑色的类肤质变成了乳白，仿佛被威猛先生biu了一身。
 
@@ -60,7 +60,7 @@ tags:
 
 完成清理后效果如图：
 
-![](https://wx1.sinaimg.cn/large/741f9461ly1fx568l0yxoj212h0ppu0x.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461ly1fx568l0yxoj212h0ppu0x.jpg)
 
 个人很满意。
 

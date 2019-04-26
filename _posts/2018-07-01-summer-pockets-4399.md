@@ -13,9 +13,9 @@ tags:
 
 **首先当然是成为桌球王的男人！**
 
-![](https://wx3.sinaimg.cn/large/741f9461gy1fstga70uopj21bw0s7x6p.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fstga70uopj21bw0s7x6p.jpg)
 
-![](https://wx2.sinaimg.cn/large/741f9461gy1fstgaixsj9j21bw0s71ky.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fstgaixsj9j21bw0s71ky.jpg)
 
 体验版就搭载的桌球小游戏，内藏各种运动漫画乃至超能力网球梗，配合基友接球时那神奇的魔性鬼叫，轻松搞笑根本停不下来。
 
@@ -27,41 +27,41 @@ tags:
 2. 每晚下饵钓“島モン”卡牌。
 3. 收集卡牌并与岛民对战，成为排行榜的No.1！
 
-![](https://wx2.sinaimg.cn/large/741f9461gy1fsty9qsxjrj212w0mwnpd.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fsty9qsxjrj212w0mwnpd.jpg)
 
 毫无疑问，所谓的“島モン”就是个桌游版的山寨p○kem○n。
 
 游戏内玩家能钓到的モンスター包括但不限于任何匪夷所思的东西—— 
 
-![](https://wx3.sinaimg.cn/large/741f9461gy1fstyb9l475j212w0mwhdt.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fstyb9l475j212w0mwhdt.jpg)
 
 没错！
 
 你是能钓基友的！
 
-![](https://wx3.sinaimg.cn/large/741f9461gy1fstyc09mptj212w0mwb29.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fstyc09mptj212w0mwb29.jpg)
 
 甚至能钓到俩！
 
-![](https://wx1.sinaimg.cn/large/741f9461gy1fstgrps5t9j20uq0cqtmq.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fstgrps5t9j20uq0cqtmq.jpg)
 
 重复获取基友卡牌还能解锁gay佬对话！
 
-![](https://wx2.sinaimg.cn/large/741f9461gy1fstycqjxtaj20930ap0ye.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fstycqjxtaj20930ap0ye.jpg)
 
 两只基友更是拥有“改2”形态！
 
-![](https://wx4.sinaimg.cn/large/741f9461gy1fsthb5d3idj20tv0nu1kx.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fsthb5d3idj20tv0nu1kx.jpg)
 
 使用基友与各个女主对战能触发各种相声剧情！
 
-![](https://wx2.sinaimg.cn/large/741f9461gy1fstydexz4wj212w0mwnpd.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fstydexz4wj212w0mwnpd.jpg)
 
 而用基友和基友对战就......
 
 更加难以名状。
 
-![](https://wx2.sinaimg.cn/large/741f9461gy1fstkqip0elj21bw0s7hdu.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fstkqip0elj21bw0s7hdu.jpg)
 
 除了基友，使用“黄书”作为饵料还能Get到某些意想不到的生物，就比如粘在某女主身边的那只...
 
@@ -69,13 +69,13 @@ tags:
 
 而无论你是淦翻对手，还是被对手淦翻，都能看到她们做出各种意想不到的可爱反应：
 
-![](https://wx3.sinaimg.cn/large/741f9461gy1fstye3o02dj212w0mwkjl.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fstye3o02dj212w0mwkjl.jpg)
 
 “抱头.bmp”
 
 又或者蛇精病玩梗：
 
-![](https://wx4.sinaimg.cn/large/741f9461gy1fstyep3napj212w0mwnpd.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fstyep3napj212w0mwnpd.jpg)
 
 “罩杯数不过是修饰！”
 
@@ -99,7 +99,7 @@ tags:
 
 ——直到我被隐藏boss虐得体无完肤，才明白**这堆方便sl的设定其实饱含着staff对玩家的人道主义关怀。**
 
-![](https://wx1.sinaimg.cn/large/741f9461gy1fstyfcn8jyj212w0mwnpd.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fstyfcn8jyj212w0mwnpd.jpg)
 
 你经历过自以为天下无敌的队伍被boss三下淦翻的绝望吗？
 
@@ -127,27 +127,27 @@ tags:
 
 值得一提的是这些“高级饵料”比如黄书的来源实在能让人笑出声儿。
 
-![](https://wx3.sinaimg.cn/large/741f9461gy1fstz70mtb9j212w0qvkjl.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fstz70mtb9j212w0qvkjl.jpg)
 
 这堆破书还是按硬核程度划分等级的！
 
 完全摸透游戏系统之后便从0开启sl之旅。
 
-![](https://wx1.sinaimg.cn/large/741f9461gy1fstlt6b6g5j21bw0s7x6p.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fstlt6b6g5j21bw0s7x6p.jpg)
 
 “哈哈哈哈小屁孩，你也不想想我为了淦翻你sl了多少次！ ”（教学关首战淦翻幼女可以直升排名跳级打前十的boss）
 
 最终集齐四大神兽（四个被黄书钓出来的糟老头子......）
 
-![](https://wx2.sinaimg.cn/large/741f9461gy1fstyuzgmhjj212w0qs1ht.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fstyuzgmhjj212w0qs1ht.jpg)
 
 并成功召唤“黄龙”。
 
-![](https://wx3.sinaimg.cn/large/741f9461gy1fstyjlrj2zj212w0mwb29.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fstyjlrj2zj212w0mwb29.jpg)
 
 终于有了和boss一战的资本。（三个以上的五星卡）
 
-![](https://wx3.sinaimg.cn/large/741f9461gy1fstyku2cvej212w0mw4n0.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fstyku2cvej212w0mw4n0.jpg)
 
 即使如此也是一场苦战。
 
@@ -155,19 +155,19 @@ boss的三属性五星太猛（改2的基友组），加上boss先手攻击，�
 
 反复sl后，用如下编队成功通关。（按朱雀→白虎→黄龙顺序出牌）
 
-![](https://wx2.sinaimg.cn/large/741f9461gy1fstylhne63j212w0mwnpd.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fstylhne63j212w0mwnpd.jpg)
 
 武功再高，你也架不住存档读档！ 
 
-![](https://wx3.sinaimg.cn/large/741f9461gy1fstym6ufkej212w0mwb29.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fstym6ufkej212w0mwb29.jpg)
 
 但迎接玩家的却不是加冕为王，而是小游戏的彻底终结。
 
-![](https://wx4.sinaimg.cn/large/741f9461gy1fstymq48zij212w0mwb29.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fstymq48zij212w0mwb29.jpg)
 
 原来整个“島モンファイト”只是无名少女让大家看的梦。
 
-![](https://wx4.sinaimg.cn/large/741f9461gy1fstyn7zqioj20wc0k31kx.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fstyn7zqioj20wc0k31kx.jpg)
 
 为了被苍称赞；（苍是游戏女主之一）
 
@@ -175,7 +175,7 @@ boss的三属性五星太猛（改2的基友组），加上boss先手攻击，�
 
 而制作出来让岛民们看到的一场“梦”。
 
-![](https://wx2.sinaimg.cn/large/741f9461gy1fstyo3lexzj20y40md7wh.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fstyo3lexzj20y40md7wh.jpg)
 
 可就算是“梦”又有何妨呢？
 
@@ -193,7 +193,7 @@ boss的三属性五星太猛（改2的基友组），加上boss先手攻击，�
 
 最后无名少女通过男主，成功把自己的留言传达给了苍。
 
-![](https://wx3.sinaimg.cn/large/741f9461gy1fstyp5wakhj20wi0a744u.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fstyp5wakhj20wi0a744u.jpg)
 
 小游戏迎来专属ed。  
 
@@ -209,7 +209,7 @@ boss的三属性五星太猛（改2的基友组），加上boss先手攻击，�
 
 这感觉就像 [セヴンデイズ](https://pockies.github.io/2017/12/03/7days-with-you/) 里マリ线的“唐突出现”的TRPG，明明只是用文字简单模拟朋友间玩TRPG，却能让人乐在其中，想永远继续下去。
 
-![](https://wx2.sinaimg.cn/large/741f9461gy1flcfljhesij218g0p0dlc.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/2332.jpg)
 
 有时候我们所需要的，或许正是一群蛇精病聚在一起；
 

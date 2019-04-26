@@ -32,7 +32,7 @@ tags:
 
 但在打开游戏的瞬间就能被空灵的bgm与朴实的文字带入氛围。
 
-![](https://wx4.sinaimg.cn/large/741f9461gy1fok6d9v3blj20is0fm17h.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fok6d9v3blj20is0fm17h.jpg)
 
 没有毁灭世界的恶党，没有拯救世界的英雄，没有壮大的逃离计划。
 
@@ -65,7 +65,7 @@ tags:
 
 莲对威廉的感情已经超越了爱情，是真正的soulmate。
 
-![](https://wx1.sinaimg.cn/large/741f9461gy1fok6dqzvm9j20zk0k01kx.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fok6dqzvm9j20zk0k01kx.jpg)
 
 所以动画最终话打动我的不是珂朵莉的死，而莲在意识到自己快要自爆时，为了不波及威廉选择松开威廉的手自杀。
 
@@ -98,7 +98,7 @@ tags:
 
 游戏用了4小时的流程做铺垫，从演出到音乐无不在烘托这份焦虑与困惑。
 
-![](https://wx2.sinaimg.cn/large/741f9461gy1fok6dz2aauj21hc0u0adk.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fok6dz2aauj21hc0u0adk.jpg)
 
 结果却用3分钟写出答案草草交卷：
 

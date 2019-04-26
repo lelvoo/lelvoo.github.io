@@ -39,7 +39,7 @@ tags:
 
 360全家桶二位一体，一个是360安全卫士（ai user，女配角），一个是360杀毒（hs user，女主角），缺一不可。
 
-![](https://wx1.sinaimg.cn/large/741f9461gy1frznqgmrfmj21fs0t47eg.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1frznqgmrfmj21fs0t47eg.jpg)
 
 毕竟垃圾360，两个打一个都勉强五五开，xna开始强行和order4融合，眼看药丸，作为女主的hs user就从order4分离出女配ai user，牺牲自己和xna融合以求让ai user跑路。
 
@@ -67,7 +67,7 @@ tags:
 
 男主见到了两个复制体，一路解谜，最终抵达奈落底层，通过回档的方式，让已经失去知性完全变成战斗机器的两台杀不死的xna，融合成一台全新的order4并消除其“不死性”。
 
-![](https://wx1.sinaimg.cn/large/741f9461gy1frznr018slj21fk0t04qq.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1frznr018slj21fk0t04qq.jpg)
 
 男主把这台order4干死，收了hs user的复制体当后宫。
 
@@ -79,13 +79,13 @@ tags:
 
 游戏文本更加一头雾水。
 
-![](https://wx3.sinaimg.cn/large/741f9461gy1frznrrzrkpj21fk0sx1ky.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1frznrrzrkpj21fk0sx1ky.jpg)
 
 科这个垃圾脚本再次放飞自我，后半全程不写人话，文字游戏绕来绕去，拜此所赐我打了两遍+手写笔记才捋清来龙去脉。
 
 游戏最后甚至出现了神似当年《武林外传》里 [吕秀才说死姬无命](https://www.bilibili.com/video/av9375145/) 的奇葩展开。
 
-![](https://wx1.sinaimg.cn/large/741f9461gy1frznrfio74j20l70hudtp.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1frznrfio74j20l70hudtp.jpg)
 
 没错，科鬼扯了半天，就写了个“是我杀了我”的故事：
 
@@ -105,13 +105,13 @@ tags:
 
 **游戏后半全程都在这样极其意识流的兜圈子。**
 
-![](https://wx3.sinaimg.cn/large/741f9461gy1frznr95yjcj21fk0t0hdt.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1frznr95yjcj21fk0t0hdt.jpg)
 
 **而游戏前半又蠢得像一个逗逼雷拔：**
 
 “让dlc女主长出大雕干男主老婆玩ntr，结果惨遭男主老婆一口咬断丁丁，痛的直接落下心理阴影还被男主小妾们改造发情，最后让男主反复中出干出啊黑颜。”
 
-![](https://wx1.sinaimg.cn/large/741f9461gy1frznrywdk3j20pv0k0q8c.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1frznrywdk3j20pv0k0q8c.jpg)
 
 雷得外焦里嫩......
 
@@ -133,7 +133,7 @@ tags:
 
 让绝对中立旁观，绝不干涉人类，看不到也摸不着，自始至终都像上帝一样观测人类的有机ai，分离出一个“个体”登上舞台帮助人类。
 
-![](https://wx2.sinaimg.cn/large/741f9461gy1frzawjdyrcj20r509ynbq.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1frzawjdyrcj20r509ynbq.jpg)
 
 还把这个“个体”给设定成了order的ai user，作为order4的一个组成部件为人类而战。
 
@@ -169,7 +169,7 @@ tags:
 
 **“没想到吧，上帝是女孩，下凡给人干！”**  
 
-![](https://wx1.sinaimg.cn/large/741f9461gy1frznsgr3fqj20un0ff1kx.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1frznsgr3fqj20un0ff1kx.jpg)
 
 让犹如神灵的有机ai，直接low成了人类手里的一个道具。
 
@@ -187,13 +187,13 @@ tags:
 
 **全部没有解释。**
 
-![](https://wx1.sinaimg.cn/mw690/741f9461gy1frznsywnobj208r03z0sq.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1frznsywnobj208r03z0sq.jpg)
 
 而翻wiki的时候才注意到，合着这个dlc只是把order4的坑给填了，至于order1是什么，依然只有鬼知道。
 
 可以说 [BALDR BRINGER EXTEND CODE](http://products.web-giga.com/baldrbringer_ec/index.html) 根本不能算作一个完整的故事，dlc故事本身的坑没填，系列的坑也没填，反倒腆着脸鬼扯出新的坑。
 
-![](https://wx3.sinaimg.cn/large/741f9461gy1frznsp2jevj214e0hb1kx.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1frznsp2jevj214e0hb1kx.jpg)
 
 整个dlc里只看得到傻逼科粉碎掉整个baldr系列设定的傲慢，以及挖坑不填还不写人话的自嗨。
 

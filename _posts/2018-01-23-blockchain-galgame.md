@@ -35,7 +35,7 @@ tags:
 10. 本作全分辨率覆盖，最高支持到10086k超高分辨率；全平台全主机全设备支持，提供终身维护更新；支持鼠标/手柄/触摸操作；支持vr/ar；从超算到计算器，您可以随时随地通过任何用有屏幕的设备随心所欲与您的waifu见面！
 
 
-![](https://wx4.sinaimg.cn/large/741f9461gy1fnqkq85dnqj210g0lr3z0.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fnqkq85dnqj210g0lr3z0.jpg)
 
 ---
 

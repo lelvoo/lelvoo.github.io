@@ -63,7 +63,7 @@ tags:
 
 然后，我玩了セヴンデイズ。
 
-![](https://wx3.sinaimg.cn/large/741f9461gy1fm3xlvifjtj218g0p0dp2.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fm3xlvifjtj218g0p0dp2.jpg)
 
 ——温柔体贴的サクラ
 
@@ -93,7 +93,7 @@ tags:
 
 这些东西融入了萌与欢乐的日常之中，陪着女主角们一起烦恼，一起面对，マリ的篇章更是设计一个格外有趣的tRPG玩法让玩家陪她一起玩闹，一起犯傻。
 
-![](https://wx2.sinaimg.cn/large/741f9461gy1flcfljhesij218g0p0dlc.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1flcfljhesij218g0p0dlc.jpg)
 
 字里行间都是温情。
 
@@ -107,7 +107,7 @@ tags:
 
 留给每位女主的时间不过一周，只有短短的七天。
 
-![](https://wx4.sinaimg.cn/large/741f9461gy1fm41epzfeoj218g0p0q44.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fm41epzfeoj218g0p0q44.jpg)
 
 ---
 
@@ -125,7 +125,7 @@ tags:
 
 简单演出，却做出了极佳的氛围，让人每送走一位女主，都一点点消磨着内心。
 
-![](https://wx1.sinaimg.cn/large/741f9461gy1fm2m85xkwhj218g0p0t9h.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fm2m85xkwhj218g0p0t9h.jpg)
 
 
 >再怎么富裕，再怎么贫穷，
@@ -146,7 +146,7 @@ tags:
 
 与每位女主渡过的七天，只不过是临终关怀。
 
-![](http://wx3.sinaimg.cn/large/741f9461gy1fm4186i2yyj218g0p0jwg.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fm4186i2yyj218g0p0jwg.jpg)
 
 男主内心从最初的焦虑慢慢变得冰冷，自我保护般的不愿再牵扯太多。
 
@@ -178,7 +178,7 @@ tags:
 
 值得一提的是最后一章的选项设计得非常的“恶趣味”。
 
-![](https://wx4.sinaimg.cn/large/741f9461gy1fm40ssongnj218g0p0djb.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fm40ssongnj218g0p0djb.jpg)
 
 我也没想到，今年打的游戏里最废纸的不是拔作，而是一个众筹的廉价全年龄。
 
@@ -190,7 +190,7 @@ tags:
 
 男主和女主的位置互换，千夜子的挽留与恸哭仿佛过去男主的心声。
 
-![](https://wx2.sinaimg.cn/large/741f9461gy1fm410qhtkuj218g0p040q.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fm410qhtkuj218g0p040q.jpg)
 
 >“但是啊”
 
@@ -206,7 +206,7 @@ tags:
 
 这是一部难得一见的，充满了温度的作品。
 
-![](https://wx3.sinaimg.cn/large/741f9461gy1fm2x5om6cij218g0p00vs.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1fm2x5om6cij218g0p00vs.jpg)
 
 ---
 

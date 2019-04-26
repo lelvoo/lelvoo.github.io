@@ -68,13 +68,13 @@ tags:
 
 这种独特的代入感，仿佛自己在半睡半醒间体验了一场主角是自己的明晰梦。
 
-![](https://wx4.sinaimg.cn/large/741f9461ly1fxp1qhhao9j212w0q0hdt.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461ly1fxp1qhhao9j212w0q0hdt.jpg)
 
-![](https://wx3.sinaimg.cn/large/741f9461ly1fxp1qqqlikj212w0q0e81.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461ly1fxp1qqqlikj212w0q0e81.jpg)
 
 > **梦想就是哪怕做不出成果，也能开心做下去的事。**
 
-![](https://wx2.sinaimg.cn/large/741f9461ly1fxp1r80ek9j20wt0bsdzs.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461ly1fxp1r80ek9j20wt0bsdzs.jpg)
 
 > **梦想不能只是“梦想”，更得从现实角度思考，实现它需要哪些门路，有哪些不得不做的事。**
 
@@ -116,7 +116,7 @@ tags:
 
 ——和星奈的相遇浪漫得像一场梦。
 
-![](https://wx1.sinaimg.cn/large/741f9461ly1fxp1rwfy1xj212w0q11kx.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461ly1fxp1rwfy1xj212w0q11kx.jpg)
 
 声底尚显年幼，语气却成熟冷高。
 
@@ -126,7 +126,7 @@ tags:
 
 而星奈这个角色，也在这登场的瞬间就变得立体且充满魅力。
 
-![](https://wx4.sinaimg.cn/large/741f9461ly1fxp1s52imqj212w0q17wh.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461ly1fxp1s52imqj212w0q17wh.jpg)
 
 ——星奈想要找到自己的“生存意义。”
 
@@ -138,7 +138,7 @@ tags:
 
 无奈当局者迷，直到基友点拨：
 
-![](https://wx3.sinaimg.cn/large/741f9461ly1fxp1sly0kjj212w0pxkjl.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461ly1fxp1sly0kjj212w0pxkjl.jpg)
 
 自己在意的人是星奈；倾听自己烦恼的人是星奈；
 
@@ -146,7 +146,7 @@ tags:
 
 自己想要帮助的人是星奈；在学校和打工时想见的还是见星奈；
 
-![](https://wx2.sinaimg.cn/large/741f9461ly1fxp1t00j9yj212w04owkl.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461ly1fxp1t00j9yj212w04owkl.jpg)
 
 **——男主终于在这一大段“自省”中意识到自己的心意。**
 
@@ -212,7 +212,7 @@ tags:
 
 我逃也似的返回标题重开游戏，只想听听星奈的声音缓缓，谁知游戏的开篇对白却是一记埋伏已久的回马枪：
 
-![](https://wx2.sinaimg.cn/large/741f9461ly1fxp1ukcdrxj212w0pxkjl.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461ly1fxp1ukcdrxj212w0pxkjl.jpg)
 
 > **“之前关于我想成为哪颗星星的话题，还记得吧？”**
 >
@@ -253,7 +253,7 @@ tags:
 最后感谢 [+yoru Lin](https://plus.google.com/u/1/110057842376152541430) 和 [@ciqiong ](https://twitter.com/ciqiong) 两位大佬，几乎同时向我分享了游戏。
 原本只是自己在sns上发的一条求物推荐，想着只要能让人知道还有这么一个同人就好。
 
-![](https://wx1.sinaimg.cn/large/741f9461ly1fxp1vegz6xj20f80drtbg.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461ly1fxp1vegz6xj20f80drtbg.jpg)
 
 
 
