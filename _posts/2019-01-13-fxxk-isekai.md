@@ -23,7 +23,7 @@ YouTube： [【冻鳗x相声】关于让郭德纲于谦配音2018穿越动画这
 
 一切源于一次讨论：
 
-![](https://wx2.sinaimg.cn/large/741f9461ly1fz5byviz6hj20bl0am40g.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/23659hjvgjhg.jpg)
 
 9012了，该学Pr了。
 
@@ -59,7 +59,7 @@ YouTube： [【冻鳗x相声】关于让郭德纲于谦配音2018穿越动画这
    原本想用 [《遥的接球》](http://www.harukana-receive.jp/
    ) ， ~~因为我非常喜欢第一话中这cut“纸片美少女摸龟头”~~ ，无奈唠嗑cut太少，作罢。
 
-   ![](https://wx3.sinaimg.cn/large/741f9461gy1ft0hoe6k2bg20eg085b29.gif)
+   ![](https://raw.githubusercontent.com/Pockies/pic/master/dsgfcjgkhlihih5.gif)
 
 2. **[《CONCEPTION 为我而生》](http://conception-anime.com/
    )**
@@ -239,7 +239,7 @@ YouTube： [【冻鳗x相声】关于让郭德纲于谦配音2018穿越动画这
 
 还有一些梗，比如几次出现在串场唠嗑中的“便当盒”特写之类，这些浅显的梗大部分人都能看懂，不再赘述。
 
-![](https://wx2.sinaimg.cn/large/741f9461ly1fz5c92z07ij20zk0k0qtm.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461ly1fz5c92z07ij20zk0k0qtm.jpg)
 
 就像郭德纲那原版相声，讽刺当年穿越泛滥之余，又强调雅俗共赏的笑果；
 
@@ -274,7 +274,7 @@ YouTube： [【冻鳗x相声】关于让郭德纲于谦配音2018穿越动画这
 
 最终整体满意，唯一的不满是镜头剪得过于细碎，不过我也没精力继续折腾，就这样凑合了。
 
-![](https://wx3.sinaimg.cn/large/741f9461ly1fz5cddd5rdj212w0j1186.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461ly1fz5cddd5rdj212w0j1186.jpg)
 
 **——剪辑卡通注意避开的坑：**
 
@@ -298,7 +298,7 @@ YouTube： [【冻鳗x相声】关于让郭德纲于谦配音2018穿越动画这
 
    我的爆肝痛苦在视频成品中也有体现，视频中后段很明显，尤其最后的李莲英，排骨相关的cut明显不够“同步”了，因为我已经几天没睡好觉，肝到了意识模糊......
 
-   ![](https://wx2.sinaimg.cn/large/741f9461ly1fz5cekjj2uj212w063tft.jpg)
+   ![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461ly1fz5cekjj2uj212w063tft.jpg)
 
    （如果你和我一样上来就手贱开了个大工程入门，那等待你的将是上图这样无比密集的分镜地狱。）
 
@@ -306,7 +306,7 @@ YouTube： [【冻鳗x相声】关于让郭德纲于谦配音2018穿越动画这
 
 **字幕工具：[ArcTime](https://arctime.org/index.html)**
 
-![](https://wx4.sinaimg.cn/large/741f9461ly1fz5cfiloutj210e0lz7nm.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461ly1fz5cfiloutj210e0lz7nm.jpg)
 
 **——制作字幕必须避开的坑：**
 
@@ -328,7 +328,7 @@ YouTube： [【冻鳗x相声】关于让郭德纲于谦配音2018穿越动画这
 
 **字幕内嵌+压制工具：[哔哩哔哩投稿工具](https://dl.hdslb.com/winclient/uploader/2.0.0.1054/bilibiliuploader-release-20170901-1054.exe)**
 
-![](https://wx4.sinaimg.cn/large/741f9461ly1fz5ch5axerj20so0kcjuc.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461ly1fz5ch5axerj20so0kcjuc.jpg)
 
 我尝试过几种压制视频+内嵌字幕的方式，比如：
 
@@ -349,7 +349,7 @@ YouTube： [【冻鳗x相声】关于让郭德纲于谦配音2018穿越动画这
 
 然后——
 
-![](https://wx2.sinaimg.cn/large/741f9461ly1fyz70ulo6wj20ip0biwgm.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461ly1fyz70ulo6wj20ip0biwgm.jpg)
 
 我自以为考虑到了一切可能在墙内网站被淦的因素，比如视频中部分飙血镜头，又或者部分福利cut。
 
@@ -363,7 +363,7 @@ YouTube： [【冻鳗x相声】关于让郭德纲于谦配音2018穿越动画这
 
 ——谁知“版权方”一个灭霸响指，一切努力灰飞烟灭。
 
-![](https://wx1.sinaimg.cn/large/741f9461ly1fz5cj6o1z7j20io0l6dhx.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461ly1fz5cj6o1z7j20io0l6dhx.jpg)
 
 我随后艰难搜索到bilibili的 [稿件申诉渠道](https://www.bilibili.com/read/cv139892/) ——走人工客服，并等待数十分钟后，总算正常过审。
 
@@ -400,13 +400,10 @@ YouTube： [【冻鳗x相声】关于让郭德纲于谦配音2018穿越动画这
 **可笑的是这个未来正在逐渐变成现实。**
 
 - 早几年为宣传“正版大法好”，各路媒体喉舌直接炮制了“IP”这个词；
-
 - 随后“正版理念”根植人心，**甚至矫枉过正**——这正是他们想要的结果；
-
 - 现在媒体们又抛弃“IP”转而重新采用“版权”这个**具有法律意味**的传统说辞，并刻意将“版权”与“平台方”绑定。
 
 **这些来自资本倒爷的宣传“陷阱”，正在潜移默化中让年轻消费者的视线，由原本的“创作者”，转向它们“平台方”。**
-
 
 这是对“创作者”与“消费者”的双重绑架。
 
@@ -461,7 +458,7 @@ YouTube： [【冻鳗x相声】关于让郭德纲于谦配音2018穿越动画这
 
 ——这或许就是整个2018我最大的收获了。
 
----
+------
 
 希望未来某天：
 
@@ -474,4 +471,5 @@ YouTube： [【冻鳗x相声】关于让郭德纲于谦配音2018穿越动画这
 
 > まこと人生は......おもしろい。
 
-![](https://wx2.sinaimg.cn/large/741f9461ly1fz5dbxkn7nj212w0lv7h3.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461ly1fz5dbxkn7nj212w0lv7h3.jpg)
+
