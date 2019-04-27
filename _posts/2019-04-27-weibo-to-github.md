@@ -16,23 +16,23 @@ tags:
 - 完全免费，秒速访问，极其稳定，不限流量，永久保存。
 - 除了会压图与审查色情/敏感内容，简直无可挑剔。
 
-正因如此，包括我在内将Weibo当作主力图床使用的人不在少数，连相关[Chrome扩展](https://chrome.google.com/webstore/search/%E5%BE%AE%E5%8D%9A%20%E5%9B%BE%E5%BA%8A?utm_source=chrome-ntp-icon&_category=extensions)都有好几个。
+正因如此，包括我在内将Weibo当作主力“图床”的人不在少数，连相关[Chrome扩展](https://chrome.google.com/webstore/search/%E5%BE%AE%E5%8D%9A%20%E5%9B%BE%E5%BA%8A?utm_source=chrome-ntp-icon&_category=extensions)都有好几个。
 
 然而——
 
 > 天下没有免费的午餐。
 
-就在昨天早上，Weibo毫无通告的开启了防盗链，站外引用图片将全部403。
+就在昨天早上，Weibo毫无通告的开启了防盗链，站外引用图片集体403。
 
 ![](https://raw.githubusercontent.com/Pockies/pic/master/Pockies19.04.27-01.40.55.png)
 
 我的Blog昨天受灾惨重几乎等于瘫痪，尤其一些长篇图文教程。
 
-虽然被Weibo这轮背刺搞得窝了一肚子火，但Weibo在**并没有“图床服务”**的情况下**一直开放外链**让我们爽了7年之久，也算仁至义尽。
+虽然被Weibo这轮背刺搞得满肚子窝火，但Weibo在**并没有“图床服务”**的情况下**一直开放外链**让我们爽了7年之久，也算仁至义尽。
 
 ![](https://raw.githubusercontent.com/Pockies/pic/master/Pockies.19.04.27-14.15.07.png)
 
-所以面对辣鸡可乐的~~无端~~指责，我竟无法反驳，甚至痛定思痛点了个赞......
+所以面对~~辣鸡~~可乐的~~无端~~指责，我竟无法反驳，甚至痛定思痛点了个赞......
 
 不过图床boom了，总得想办法。
 
@@ -42,7 +42,7 @@ tags:
 
 > 没有面包，吃蛋糕不就好了？
 
-反正Blog就是利用GitHub搭建，那干脆一不做二不休，直接拿GitHub当图床便是：
+反正Blog就是用GitHub搭建，干脆一不做二不休，直接拿GitHub当图床便是：
 
 打开[GitHub](https://github.com)，点右上角新建仓库。
 
@@ -66,17 +66,25 @@ tags:
 
 GitHub配置结束。
 
-# 使用PicGo上传图片到GitHub
+# 使用PicGo传图到GitHub
 
 [PicGo](https://github.com/Molunerfinn/PicGo)是一款支持多图床上传的客户端软件，功能强大。
 
-按照你的系统版本下载安装[PicGo](https://github.com/Molunerfinn/PicGo/releases)，打开软件并展开右侧`图床设置`；
+根据你的系统下载安装对应的[PicGo](https://github.com/Molunerfinn/PicGo/releases)版本，打开软件并展开右侧`图床设置`；
 
 进入[GitHub图床](https://nodejs.org/en/)，在设置里依次填入：
 
-- 仓库名。填写`你的GitHub用户名/pic`，也就是上一步建立的GitHub仓库；
-- 分支名。填写`master`即可；
-- Token。填写上一步获取的GitHub令牌。
+- 仓库名。
+
+  填写`你的GitHub用户名/pic`，也就是上一步建立的GitHub仓库；
+
+- 分支名。
+
+  填写`master`即可；
+
+- Token。
+
+  填写上一步获取的GitHub令牌。
 
 点击`确定`，并`设为默认图床`。
 
@@ -86,11 +94,10 @@ GitHub配置结束。
 
 ![](https://raw.githubusercontent.com/Pockies/pic/master/Pockies.19.04.27-15.19.42.png)
 
-现在，你已经能拿GitHub当图床使了。
+现在，你已经能拿GitHub当图床使了：
 
-不仅能通过[GitHub ](https://desktop.github.com/)网页直接访问图床仓库，简单管理已上传的图片；
-
-也可以安装[GitHub Desktop](https://desktop.github.com/)将仓库克隆到本地，在本地管理/修改图片后再推送回去。
+- 不仅能通过[GitHub ](https://desktop.github.com/)网页直接访问图床仓库，简单管理已上传的图片；
+- 也可以安装[GitHub Desktop](https://desktop.github.com/)将仓库克隆到本地，在本地管理/修改图片后再推送回去。
 
 **但必须注意，上传大体积图片务必压缩，不然载入速度感人，体积控制在200kb内最佳。**
 
@@ -136,7 +143,7 @@ GitHub配置结束。
 
   **但不推荐使用该功能**，一旦图片迁移失败，你会搞不清到底是哪篇失败，直接抓瞎，老老实实一篇一篇迁移就好。
 
-- 如果你的单篇文章非常长（>3000字），且图片数量不少（>10张），建议将文章**拆分**成几份再迁移。
+- 如果你的单篇文章较长（>3000字），且图片数量不少（>10张），建议将文章**拆分**成几份再迁移。
 
   **否则同样有概率迁移失败。**
 
@@ -144,9 +151,9 @@ GitHub配置结束。
 
 ![](https://raw.githubusercontent.com/Pockies/pic/master/Pockies.19.04.27.01.23.59.png)
 
-- 手动上传也会偶尔失败，**修改一下图片文件名**再传即可。
+- 手动上传偶尔也会失败，**修改一下图片文件名**再传即可。
 
-至此，整个Blog的图床问题也就彻底解决。
+整个Blog的图床问题至此彻底解决。
 
 # 解决weibo外链图片的403错误
 
@@ -169,9 +176,9 @@ Weibo测试图片（1.3MB，GIF）：
 
 # 其它图床推荐
 
-GitHub算是目前免费图床里最稳定，且最便利的一个。
+GitHub算是目前**免费图床**里最稳定，且最便利的一个。
 
-然而Weibo才刚“教育完”我们：
+然而Weibo昨天才“教育完”我们：
 
 > 鸡蛋不要放在一个篮子里。
 
@@ -185,7 +192,7 @@ GitHub算是目前免费图床里最稳定，且最便利的一个。
 
 ![](https://raw.githubusercontent.com/Pockies/pic/master/Pockies.19.04.27-18.21.13.png)
 
-普通图片直接引用张贴即可；如果是GIF动图，则需要**删除链接末尾的高宽设置**，如我这张末尾的`?width=520&height=293&cropmode=none`，否则图片不会动。
+普通图片直接引用张贴即可；如果是GIF动图，则需要**删除链接末尾的高宽设置**，如我这张末尾的`?width=520&height=293&cropmode=none`，否则GIF不会动。
 
 OneDrive测试图片（1.3MB，GIF）：
 
@@ -193,15 +200,15 @@ OneDrive测试图片（1.3MB，GIF）：
 
 而OneDrive初始容量有15GB，存点Blog图片完全够用。
 
-同时没有流量限制，还能直接像管理网盘那样，分类/移动/重命名自己的图片且不会影响已生成的外链，非常方便。
+同时没有流量限制，还能直接像管理网盘那样，分类/移动/重命名自己的图片且不影响已生成的外链，非常方便。
 
 **所以大可将Blog图片备份在OneDrive，顺便获取嵌入链接当作第二图床，一举两得。**
 
-#### SM.MS/Uplode.cc
+#### SM.MS/Upload.cc
 
 [SM.MS](https://sm.ms/)是码农圈儿里相对知名的一个图床。
 
-因为开放API，上文使用的PicGo甚至直接集成了SM.MS并将其设在首位。
+因为开放API，上文使用的PicGo甚至直接集成了SM.MS，并将其放在首位。
 
 **服务优秀，目前免费，外链秒开。**
 
@@ -217,7 +224,7 @@ OneDrive测试图片（1.3MB，GIF）：
 
 - **因不可抗力暂时撤掉了国内CDN。**
 
-  稳定时外链秒开，拥挤时刷不出图片。而昨天有相当数量的人数开始迁移weibo图片到SM.MS，一段时间慢到令人发指，今天也不算乐观。
+  稳定时外链秒开，拥挤时刷不出图片。由于昨天有相当数量的人数迁移weibo图片到SM.MS，一段时间慢到令人发指，今天也不算乐观。
 
 - **图片一次只能上传10张。**
 
@@ -227,9 +234,11 @@ OneDrive测试图片（1.3MB，GIF）：
 
 除此之外一切美好。
 
-SM.MS测试图片（1.3MB，GIF）：
+SM.MS测试图片（1.3MB，GIF，~~目前可能慢到刷不出来，请点击[该外链](https://i.loli.net/2019/04/27/5cc43cdbb583d.gif)直接感受一下...~~）：
 
 ![](https://i.loli.net/2019/04/27/5cc43cdbb583d.gif)
+
+---
 
 与SM.MS类似，免费图床还有[Upload.cc](https://upload.cc/)。
 
@@ -239,7 +248,7 @@ Upload.cc测试图片（1.3MB，GIF）：
 
 ![](https://upload.cc/i1/2019/04/27/MYKjnx.gif)
 
-**※使用任何图床，务必阅读其的[使用条款](https://upload.cc/terms)，请勿上传违规内容。**
+**※使用任何图床，务必阅读[使用条款](https://upload.cc/terms)，请勿上传违规内容。**
 
 ---
 
@@ -247,17 +256,17 @@ Upload.cc测试图片（1.3MB，GIF）：
 
 用作论坛帖子之类的**临时**图床都非常合适，但对于**需要长期保存**的重要内容（如Blog图片），请慎重考虑。
 
-**——就像Weibo，免费服务并无义务对用户负责，体量不大的私人图床更可能随时闭门谢客。**
+**——就像Weibo，免费服务没有义务对用户负责，体量不大的私人图床更可能随时闭门谢客。**
 
 所以本次图床迁移，个人首选用的GitHub，备选用的OneDrive。
 
-哪怕未来巨硬关服务，也不至于瞬间暴毙连个迁移的机会都没有。
+哪怕未来巨硬关服务，也不至于瞬间暴毙连个迁移/存档的机会都没有。
 
 # 尾巴 / 致歉
 
 最近Blog除了图床迁移，还有评论插件的修改。
 
-由于我始终都开着[广告屏蔽](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)，以至于最近才发现[Disqus](https://disqus.com/)居然在评论区硬塞了三处大幅广告，甚至直接影响评论内容的展示：
+由于我始终都开着[广告屏蔽](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)，以至于最近才发现[Disqus](https://disqus.com/)居然在评论区硬塞了三处大幅广告，直接影响评论内容的正常展示：
 
 ![](https://raw.githubusercontent.com/Pockies/pic/master/Pockies.19.04.27-19.49.37.png)
 
@@ -269,18 +278,22 @@ Upload.cc测试图片（1.3MB，GIF）：
 
 当场用[Gitalk](https://gitalk.github.io/)替换掉垃圾[Disqus](https://disqus.com/)。
 
-替换后的评论区基于GitHub的Issue功能，**没有广告，国内直连，加载迅速，还支持Markdown。**
+替换后的评论区基于GitHub的Issue，**没有广告，国内直连，加载迅速，还支持Markdown。**
 
-这也意味着我的整个Blog，现在从网页，到图床，再到评论区，全部依托于GitHub功能，就连备胎/备份也靠的是OneDrive。
+这也意味着我的整个Blog，现在从网页，到图床，再到评论区，全部依托于GitHub功能。
+
+就连备份也靠的是OneDrive。
 
 **——“啊！巨硬！”**
 
 ——**“再生父母！”**
 
-但遗憾的是，以前读者评论在Disqus的内容**无法迁移**，就此丢失......
+但遗憾的是，以前读者评论在Disqus的内容**无法迁移**，只能丢失......
 
 所以。
 
 **最后对曾在本Blog受过广告侵扰的朋友，以及评论区迁移后评论消失的朋友。**
 
-**——说声非常抱歉。**
+**——表示非常抱歉。**
+
+~~*※鉴于本人并不是纸片美少女，道歉就不露出胸部了。*~~
