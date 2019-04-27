@@ -5,7 +5,7 @@ title:      利用PicGo快速迁移Weibo外链图片到GitHub
 subtitle:   昨天，Weibo开始屏蔽图片外链了。
 date:       2019-04-27
 author:     Pockies
-header-img: img/post-bg-011.jpg
+header-img: img/post-bg-034.jpg
 catalog: true
 tags:
     - 生活
