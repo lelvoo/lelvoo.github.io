@@ -163,7 +163,7 @@ GitHub配置结束。
 
 之后Weibo的外链图片就会正常显示。
 
-Weibo测试图片：
+Weibo测试图片（1.3MB，GIF）：
 
 ![](https://wx3.sinaimg.cn/large/741f9461ly1g2hgoq61w3g20eg085b29.gif)
 
@@ -239,7 +239,7 @@ Upload.cc测试图片（1.3MB，GIF）：
 
 ![](https://upload.cc/i1/2019/04/27/MYKjnx.gif)
 
-**※使用任何图床，务必阅读他们的[使用条款](https://upload.cc/terms)，不要上传违规内容。**
+**※使用任何图床，务必阅读其的[使用条款](https://upload.cc/terms)，请勿上传违规内容。**
 
 ---
 
@@ -257,7 +257,7 @@ Upload.cc测试图片（1.3MB，GIF）：
 
 最近Blog除了图床迁移，还有评论插件的修改。
 
-由于我始终都开着[广告屏蔽](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)，以至于最近才发现[Disqus](https://disqus.com/)居然在评论区硬塞了三处大幅广告，甚至直接影响评论内容的展示。
+由于我始终都开着[广告屏蔽](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)，以至于最近才发现[Disqus](https://disqus.com/)居然在评论区硬塞了三处大幅广告，甚至直接影响评论内容的展示：
 
 ![](https://raw.githubusercontent.com/Pockies/pic/master/Pockies.19.04.27-19.49.37.png)
 
@@ -281,13 +281,6 @@ Upload.cc测试图片（1.3MB，GIF）：
 
 所以。
 
-**——最后对曾在本Blog受过广告侵扰的朋友，以及评论区迁移后评论消失的朋友，说声非常抱歉。**
+**最后对曾在本Blog受过广告侵扰的朋友，以及评论区迁移后评论消失的朋友。**
 
-
-
-
-
-
-
-
-
+**——说声非常抱歉。**
