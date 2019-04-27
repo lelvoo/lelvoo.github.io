@@ -165,7 +165,7 @@ GitHub配置结束。
 
 Weibo测试图片：
 
-![](<https://wx3.sinaimg.cn/large/741f9461ly1g2hgoq61w3g20eg085b29.gif>)
+![](https://wx3.sinaimg.cn/large/741f9461ly1g2hgoq61w3g20eg085b29.gif)
 
 # 其它图床推荐
 
