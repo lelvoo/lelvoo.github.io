@@ -2,7 +2,7 @@
 
 layout:     post
 title:      利用PicGo快速迁移Weibo外链图片到GitHub
-subtitle:   昨天，Weibo开始屏蔽图片外链了。
+subtitle:   昨天，Weibo开启了图片防盗链。
 date:       2019-04-27
 author:     Pockies
 header-img: img/post-bg-034.jpg
@@ -26,7 +26,7 @@ tags:
 
 ![](https://raw.githubusercontent.com/Pockies/pic/master/Pockies19.04.27-01.40.55.png)
 
-我的Blog昨天受灾惨重几乎等于瘫痪，尤其一些长篇图文教程。
+我的Blog一时间受灾惨重几乎瘫痪，尤其一些长篇图文教程。
 
 虽然被Weibo这轮背刺搞得满肚子窝火，但Weibo在**并没有“图床服务”**的情况下**一直开放外链**让我们爽了7年之久，也算仁至义尽。
 
@@ -159,7 +159,7 @@ GitHub配置结束。
 
 自己的Blog图片是迁移了，但别人的可不一定。
 
-一些引用Weibo图片又来不及迁移的地方（如论坛帖子）照样403，这时我们可以Ban掉refer临时救急。 
+一些引用Weibo图片又来不及迁移的地方（如论坛帖子）照样403，这时我们可以Ban掉referrer临时救急。 
 
 安装Chrome扩展如[Referer Control](https://chrome.google.com/webstore/detail/referer-control/hnkcfpcejkafcihlgbojoidoihckciin)，进入扩展设置：
 
