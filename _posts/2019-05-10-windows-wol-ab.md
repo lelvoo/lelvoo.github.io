@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      在Windows下利用WoL实现多台电脑“联动/同步”开机
+title:      在Windows下利用WoL实现多台电脑“联动”开机
 subtitle:   折腾笔记
 date:       2019-05-10
 author:     Pockies
