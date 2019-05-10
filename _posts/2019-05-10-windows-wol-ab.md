@@ -27,7 +27,7 @@ tags:
 
 于是就开始了折腾。
 
-# 开启网络唤醒（WoL）
+# 启用网络唤醒（WoL）
 
 [网络唤醒](https://zh.wikipedia.org/wiki/%E7%B6%B2%E8%B7%AF%E5%96%9A%E9%86%92)`（WoL/Wake-on-LAN）`是绝大多数主板都会自带的功能。
 
@@ -39,7 +39,7 @@ tags:
 
 #### 配置BIOS
 
-既然是集成在主板上的，第一步自然得进BIOS开启这项功能。
+既然是集成在主板上的，第一步自然得进BIOS启用这项功能。
 
 相关设置一般包含“PME” / “Wake on Lan” / “WoL”等字眼，如果找不到，请阅读主板说明书或者直接Google。
 
@@ -63,7 +63,7 @@ tags:
 
 ![](https://raw.githubusercontent.com/Pockies/pic/master/Realtek%20PCIe%20GBE%20Family%20Controller%20%E5%B1%9E%E6%80%A7(475).png)
 
-网络唤醒开启完毕。
+网络唤醒启用完毕。
 
 这时给手机装个[Wake On Lan](https://play.google.com/store/apps/details?id=co.uk.mrwebb.wakeonlan)之类的App，扫描并添加你已经开启WoL的PC，只需掏出手机轻轻一点，就能在局域网内**遥控开机**了。
 
@@ -113,7 +113,7 @@ wol 5C.9D.32.B5.F2.87 9
 
 于是我们**至少需要**搞到“电脑B”的mac地址：
 
-在开启网络唤醒的“电脑B”上打开CMD，输入`ipconfig /all`，返回内容里的`Physical Address/物理地址`就是mac地址了。
+在已启用网络唤醒的“电脑B”上打开CMD，输入`ipconfig /all`，返回内容里的`Physical Address/物理地址`就是mac地址了。
 
 ![](https://raw.githubusercontent.com/Pockies/pic/master/Administrator_%20%E5%91%BD%E4%BB%A4%E6%8F%90%E7%A4%BA%E7%AC%A6(477).png)
 
